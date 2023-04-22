@@ -105,7 +105,7 @@ Hosts: 62
 ```      
 
 Для проверки дз необходимо запустить приложенный vagrantfile.      
-```git clone https://github.com/2kw92/architecture_network```      
+```https://github.com/khromenokroman/arch_net```      
 Далее       
 ```vagrant up```        
 Теперь заходим например на office1Server.sh и там выполняем:       
